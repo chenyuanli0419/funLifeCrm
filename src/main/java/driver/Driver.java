@@ -38,4 +38,7 @@ public class Driver {
     public static AppiumDriver<WebElement> getCurrentDriver(){
         return driver;
     }
+
+    sout
+
 }
